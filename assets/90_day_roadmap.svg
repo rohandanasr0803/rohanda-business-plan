@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320">
+<rect width="1440" height="320" fill="#FAF9F6"/>
+<rect x="15" y="15" width="447" height="285" rx="9" fill="#ffffff" stroke="#cbd2d8" stroke-width="2"/>
+<rect x="15" y="15" width="447" height="68" rx="9" fill="#203345"/>
+<rect x="15" y="68" width="447" height="15" fill="#203345"/>
+<text x="35" y="42" fill="#CAB07C" font-size="17" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="2">MONTH 01  /  DAYS 01–30</text>
+<text x="35" y="69" fill="#FFFFFF" font-size="22" font-family="Arial,sans-serif" font-weight="bold">FOUNDATION</text>
+<rect x="34" y="95" width="406" height="29" rx="4" fill="#F5F6F7"/>
+<text x="46" y="115" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W01  Business review</text>
+<rect x="34" y="129" width="406" height="29" rx="4" fill="#FFFFFF"/>
+<text x="46" y="149" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W02  Client &amp; pipeline</text>
+<rect x="34" y="163" width="406" height="29" rx="4" fill="#F5F6F7"/>
+<text x="46" y="183" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W03  Market intelligence</text>
+<rect x="34" y="197" width="406" height="29" rx="4" fill="#FFFFFF"/>
+<text x="46" y="217" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W04  Account activation</text>
+<rect x="32" y="244" width="410" height="39" rx="5" fill="#EADFCB"/>
+<text x="237" y="269" text-anchor="middle" fill="#685333" font-size="19" font-family="Arial,sans-serif" font-weight="bold">Commercial foundation</text>
+<path d="M 465 160 H 486" stroke="#B69C68" stroke-width="5" stroke-linecap="round"/>
+<path d="M 479 150 L 490 160 L 479 170" fill="none" stroke="#B69C68" stroke-width="5"/>
+<rect x="495" y="15" width="447" height="285" rx="9" fill="#ffffff" stroke="#cbd2d8" stroke-width="2"/>
+<rect x="495" y="15" width="447" height="68" rx="9" fill="#203345"/>
+<rect x="495" y="68" width="447" height="15" fill="#203345"/>
+<text x="515" y="42" fill="#CAB07C" font-size="17" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="2">MONTH 02  /  DAYS 31–60</text>
+<text x="515" y="69" fill="#FFFFFF" font-size="22" font-family="Arial,sans-serif" font-weight="bold">ACTIVATION</text>
+<rect x="514" y="95" width="406" height="29" rx="4" fill="#F5F6F7"/>
+<text x="526" y="115" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W05  Account outreach</text>
+<rect x="514" y="129" width="406" height="29" rx="4" fill="#FFFFFF"/>
+<text x="526" y="149" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W06  Client discovery</text>
+<rect x="514" y="163" width="406" height="29" rx="4" fill="#F5F6F7"/>
+<text x="526" y="183" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W07  Partnerships</text>
+<rect x="514" y="197" width="406" height="29" rx="4" fill="#FFFFFF"/>
+<text x="526" y="217" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W08  Opportunity development</text>
+<rect x="512" y="244" width="410" height="39" rx="5" fill="#EADFCB"/>
+<text x="717" y="269" text-anchor="middle" fill="#685333" font-size="19" font-family="Arial,sans-serif" font-weight="bold">Qualified pipeline</text>
+<path d="M 945 160 H 966" stroke="#B69C68" stroke-width="5" stroke-linecap="round"/>
+<path d="M 959 150 L 970 160 L 959 170" fill="none" stroke="#B69C68" stroke-width="5"/>
+<rect x="975" y="15" width="447" height="285" rx="9" fill="#ffffff" stroke="#cbd2d8" stroke-width="2"/>
+<rect x="975" y="15" width="447" height="68" rx="9" fill="#203345"/>
+<rect x="975" y="68" width="447" height="15" fill="#203345"/>
+<text x="995" y="42" fill="#CAB07C" font-size="17" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="2">MONTH 03  /  DAYS 61–90</text>
+<text x="995" y="69" fill="#FFFFFF" font-size="22" font-family="Arial,sans-serif" font-weight="bold">CONVERSION</text>
+<rect x="994" y="95" width="406" height="29" rx="4" fill="#F5F6F7"/>
+<text x="1006" y="115" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W09  Commercial progress</text>
+<rect x="994" y="129" width="406" height="29" rx="4" fill="#FFFFFF"/>
+<text x="1006" y="149" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W10  Proposals &amp; negotiation</text>
+<rect x="994" y="163" width="406" height="29" rx="4" fill="#F5F6F7"/>
+<text x="1006" y="183" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W11  Pipeline review</text>
+<rect x="994" y="197" width="406" height="29" rx="4" fill="#FFFFFF"/>
+<text x="1006" y="217" fill="#263A4B" font-size="18" font-family="Arial,sans-serif">W12  Management review</text>
+<rect x="992" y="244" width="410" height="39" rx="5" fill="#EADFCB"/>
+<text x="1197" y="269" text-anchor="middle" fill="#685333" font-size="19" font-family="Arial,sans-serif" font-weight="bold">12-month growth roadmap</text>
+</svg>
